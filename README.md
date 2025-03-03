@@ -5,7 +5,9 @@ Data Analysis Using Power BI
 
 1. Sales Key Insights Report
 
-![This is the alt tag.](https://prnt.sc/6quFB-L_PC_e "Sales Key Insights Using Power BI (https://amreshasoomro.netlify.app).")
+<img src="./sales-insights.png" alt="Sales Key Insights Using Power BI"/>
+
+![This is the alt tag.](../sales-insights.png "Sales Key Insights Using Power BI (https://amreshasoomro.netlify.app).")
 
 2. You can view the Sales Insights Report on Power BI by clicking here 
 
