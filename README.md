@@ -3,7 +3,7 @@
 Data Analysis Using Power BI
 ============================
 
-## Project Brief
+**Project Brief**
 My case study is based on a computer hardware company that is addressing issues in an evolving sector. The sales director decides to invest in a data analysis project and wants to construct a Power BI dashboard that would provide him with real-time sales insights.
 
 1. Sales Key Insights Report
@@ -11,22 +11,22 @@ My case study is based on a computer hardware company that is addressing issues
 <img src="./sales-insights.png" alt="Sales Key Insights Using Power BI"/>
 
 
-1. **Purpose**
+**Purpose**
    To unlock sales insights that are not visible before for sales team for decision support & automate them to reduced manual time spent in data gathering. 
 
-2. **Stakeholders**
+**Stakeholders**
    - Sales Director
    - Marketing Team
    - Customer Service Team
    - Data & Analytics Team
    - IT
 
-3. **Success Criteria**
+**Success Criteria**
    - Dashboard(s) uncovering sales order insights with latest data available. 
    - Sales team able to take better decisions & prove 10% cost savings of total spend. 
    - Sales Analysts stop data gathering manually in order to save 20% of their business time and reinvest it value added diversity. 
 
-4. **End Result**
+**End Result**
    An automated dashboard providing quick & latest sales insights in order to support data driven decision making.
    
 2. You can view the Sales Insights Report on Power BI by clicking here 
