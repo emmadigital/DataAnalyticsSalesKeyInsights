@@ -10,6 +10,10 @@ My case study is based on a computer hardware company that is addressing issues
 
 <img src="./sales-insights.png" alt="Sales Key Insights Using Power BI"/>
 
+**Video Showcase**
+<video width="320" height="240" controls>
+  <source src="./SALES-POWERBI-REPORT.mp4" type="video/mp4">
+</video>
 
 **Purpose**
    To unlock sales insights that are not visible before for sales team for decision support & automate them to reduced manual time spent in data gathering. 
