@@ -11,6 +11,10 @@ My case study is based on a computer hardware company that is addressing issues
 <img src="./sales-insights.png" alt="Sales Key Insights Using Power BI"/>
 
 **Video Showcase**
+https://github.com/emmadigital/DataAnalyticsSalesKeyInsights
+
+![Watch the video](https://raw.githubusercontent.com/emmadigital/DataAnalyticsSalesKeyInsights/main/sales-insights.png)](https://raw.githubusercontent.com/yourusername/yourrepository/main/SALES-POWERBI-REPORT.mp4)
+
 ![](./SALES-POWERBI-REPORT.mp4)
 
 
