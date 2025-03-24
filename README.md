@@ -6,9 +6,7 @@ Data Analysis Using Power BI
 **Project Brief**
 My case study is based on a computer hardware company that is addressing issues in an evolving sector. The sales director decides to invest in a data analysis project and wants to construct a Power BI dashboard that would provide him with real-time sales insights.
 
-1. Sales Key Insights Report Power BI
-
-**Video Showcase POWER BI**
+**Sales Key Insights Report Power BI**
 
 ![Watch the video](https://raw.githubusercontent.com/emmadigital/DataAnalyticsSalesKeyInsights/main/sales-insights.png)](https://raw.githubusercontent.com/emmadigital/DataAnalyticsSalesKeyInsights/main/SALES-POWERBI-REPORT.mp4)
 ![](./SALES-POWERBI-REPORT.mp4)
@@ -16,9 +14,7 @@ My case study is based on a computer hardware company that is addressing issues
 Data Analysis Using Tableau
 ============================
 
-1. Sales Key Insights Report Tableau
-
-**Video Showcase TABLEAU**
+**Sales Key Insights Report Tableau**
 
 ![Watch the video](https://raw.githubusercontent.com/emmadigital/DataAnalyticsSalesKeyInsights/main/tableau-sales-insights.png)](https://raw.githubusercontent.com/emmadigital/DataAnalyticsSalesKeyInsights/main/tableau-sales-insights.mp4)
 ![](./tableau-sales-insights.mp4)
@@ -46,13 +42,13 @@ Data Analysis Using Tableau
    - Filtering transaction based on Currency.
    - Converting USD Sales Amount to Indian Rupee. 
    
-2. You can view the Sales Insights Report on Power BI by clicking here 
+1. You can view the Sales Insights Report on **Power BI** by clicking here 
 
 https://l1nq.com/r001I
 
-3. You can view the Sales Insights Report on Tableau by clicking here 
+2. You can view the Sales Insights Report on **Tableau** by clicking here 
 
 https://shorturl.at/llqBA
 
-4. If you have any questions, please feel free to contact me! 
+3. If you have any questions, please feel free to contact me! 
    
