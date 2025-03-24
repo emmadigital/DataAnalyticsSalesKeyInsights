@@ -8,8 +8,6 @@ My case study is based on a computer hardware company that is addressing issues
 
 1. Sales Key Insights Report Power BI
 
-<img src="./sales-insights.png" alt="Sales Key Insights Using Power BI"/>
-
 **Video Showcase POWER BI**
 
 ![Watch the video](https://raw.githubusercontent.com/emmadigital/DataAnalyticsSalesKeyInsights/main/sales-insights.png)](https://raw.githubusercontent.com/emmadigital/DataAnalyticsSalesKeyInsights/main/SALES-POWERBI-REPORT.mp4)
@@ -19,7 +17,6 @@ Data Analysis Using Tableau
 ============================
 
 1. Sales Key Insights Report Tableau
-<img src="./tableau-sales-insights.png" alt="Sales Key Insights Using Tableau"/>
 
 **Video Showcase TABLEAU**
 
