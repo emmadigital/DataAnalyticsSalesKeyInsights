@@ -4,7 +4,7 @@ Data Analysis Using Power BI
 ============================
 
 **Project Brief**
-My case study is based on a computer hardware company that is addressing issues in an evolving sector. The sales director decides to invest in a data analysis project and wants to construct a Power BI dashboard that would provide him with real-time sales insights.
+My case study is based on a computer hardware company that is addressing issues in an evolving sector. The sales director decides to invest in a data analysis project and wants to construct a Power BI and Tableau dashboard that would provide him with real-time sales insights.
 
 **Sales Key Insights Report Power BI**
 
