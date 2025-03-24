@@ -43,10 +43,19 @@ Data Analysis Using Tableau
 
 **End Result**
    An automated dashboard providing quick & latest sales insights in order to support data driven decision making.
+
+**Data Cleaning and Transformation - ETL Process Steps**
+   - Excluding Null value fields. 
+   - Filtering transaction based on Currency.
+   - Converting USD Sales Amount to Indian Rupee. 
    
 2. You can view the Sales Insights Report on Power BI by clicking here 
 
 https://l1nq.com/r001I
 
-3. If you have any questions, please feel free to contact me! 
+3. You can view the Sales Insights Report on Tableau by clicking here 
+
+https://shorturl.at/llqBA
+
+4. If you have any questions, please feel free to contact me! 
    
