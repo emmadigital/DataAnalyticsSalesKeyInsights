@@ -6,16 +6,25 @@ Data Analysis Using Power BI
 **Project Brief**
 My case study is based on a computer hardware company that is addressing issues in an evolving sector. The sales director decides to invest in a data analysis project and wants to construct a Power BI dashboard that would provide him with real-time sales insights.
 
-1. Sales Key Insights Report
+1. Sales Key Insights Report Power BI
 
 <img src="./sales-insights.png" alt="Sales Key Insights Using Power BI"/>
 
-**Video Showcase**
+**Video Showcase POWER BI**
 
 ![Watch the video](https://raw.githubusercontent.com/emmadigital/DataAnalyticsSalesKeyInsights/main/sales-insights.png)](https://raw.githubusercontent.com/emmadigital/DataAnalyticsSalesKeyInsights/main/SALES-POWERBI-REPORT.mp4)
-
 ![](./SALES-POWERBI-REPORT.mp4)
 
+Data Analysis Using Tableau
+============================
+
+1. Sales Key Insights Report Tableau
+<img src="./tableau-sales-insights.png" alt="Sales Key Insights Using Tableau"/>
+
+**Video Showcase TABLEAU**
+
+![Watch the video](https://raw.githubusercontent.com/emmadigital/DataAnalyticsSalesKeyInsights/main/tableau-sales-insights.png)](https://raw.githubusercontent.com/emmadigital/DataAnalyticsSalesKeyInsights/main/tableau-sales-insights.mp4)
+![](./tableau-sales-insights.mp4)
 
 **Purpose**
    To unlock sales insights that are not visible before for sales team for decision support & automate them to reduced manual time spent in data gathering. 
