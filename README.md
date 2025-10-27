@@ -43,12 +43,9 @@ Data Analysis Using Tableau
    - Converting USD Sales Amount to Indian Rupee. 
    
 1. You can view the Sales Insights Report on **Power BI** by clicking here 
-
-https://l1nq.com/r001I
+https://bit.ly/4nimEBf
 
 2. You can view the Sales Insights Report on **Tableau** by clicking here 
-
-https://shorturl.at/llqBA
-
+https://bit.ly/3WlEbh7
 3. If you have any questions, please feel free to contact me! 
    
